@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinProject</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingrese_clave">Ingrese Clave</string>
+    <string name="log_in">Log In</string>
+    <string name="facebook_app_id">1789472021078434</string>
+</resources>

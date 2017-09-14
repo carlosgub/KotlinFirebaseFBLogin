@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "35709785293",
+    "firebase_url": "https://bienjugado-c954d.firebaseio.com",
+    "project_id": "bienjugado-c954d",
+    "storage_bucket": "bienjugado-c954d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35709785293:android:bfa1b02eac21d876",
+        "android_client_info": {
+          "package_name": "trabajo.jugado.bien.bienjugado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35709785293-g01qthkch12ccd05dgoklfig6qrvmabp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trabajo.jugado.bien.bienjugado",
+            "certificate_hash": "30cf73d80abbb1f41dfd1d3fdddbfea601147d24"
+          }
+        },
+        {
+          "client_id": "35709785293-bv9c7iffifhvsl0ge1tn7cuei7cgq50m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDc8cGuROa7-OKYBXy8_1VkR49bwpf7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35709785293-bv9c7iffifhvsl0ge1tn7cuei7cgq50m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35709785293:android:6b51cde50a9b4343",
+        "android_client_info": {
+          "package_name": "com.kevicsalazar.firebaseclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35709785293-bv9c7iffifhvsl0ge1tn7cuei7cgq50m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDc8cGuROa7-OKYBXy8_1VkR49bwpf7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35709785293:android:277f48733d31805c",
+        "android_client_info": {
+          "package_name": "com.example.groot.kotlinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35709785293-bv9c7iffifhvsl0ge1tn7cuei7cgq50m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDc8cGuROa7-OKYBXy8_1VkR49bwpf7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
